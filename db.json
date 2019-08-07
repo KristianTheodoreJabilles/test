@@ -1,0 +1,241 @@
+{
+  "userApplication": [
+    {
+      "id": "dipa-001",
+      "status": "Approved",
+      "title": "Single Application",
+      "timeLineStatus": "Started on Apr 2nd, 2019.",
+      "percentage": "75",
+      "link": "#",
+      "completed": false
+    },
+    {
+      "id": "dipa-002",
+      "status": "Pending",
+      "title": "Joint Application With Zhi Hao",
+      "timeLineStatus": "Valid until Apr 2nd, 2019.",
+      "maxPropertyPrice": "500000",
+      "maxLoanAmount": "230000",
+      "provider": "dbs",
+      "completed": true
+    }
+  ],
+  "applicationSummary": {
+    "data":{
+      "attributes":{
+        "main_applicant":{
+          "first_name":"John",
+          "last_name":"Wick",
+          "gender":"male",
+          "nric_number":"S8464417Z",
+          "nric_expiry":"11/11/2020",
+          "fin_expiry":"11/11/2020",
+          "fin_number":"G8597280X",
+          "passport_expiry":"11/11/2020",
+          "passport_number":"ecec232323",
+          "home_address_block_number":"123123",
+          "home_address_postal_code":"160134",
+          "home_address_residence_ownership":"owned",
+          "home_address_residence_type":"hdb",
+          "home_address_street_name":"Blk 134 jalan bukit merah 10-1420",
+          "home_address_unit_number":"123123",
+          "date_of_birth":"12/01/1995",
+          "education_level":"university_postgrad",
+          "email":"kristian.jabilles@gmail.com",
+          "employment_status":"employee",
+          "first_employment":"no",
+          "fixed_monthly_income":"123123",
+          "marital_status":"single",
+          "mobile_number":"92209085",
+          "nationality":"test1",
+          "other_available_savings":"123123",
+          "current_employer_block_number":"134",
+          "current_employer_length_of_service_months":"1",
+          "current_employer_length_of_service_years":"1",
+          "current_employer_name":"MoneySmart",
+          "current_employer_occupation":"CTO",
+          "current_employer_postal_code":"149555",
+          "current_employer_street_name":"Commonwealth lane",
+          "current_employer_business_type":"Fin Tech",
+          "current_employer_unit_number":"04-02",
+          "previous_employer_length_of_service_months":"1",
+          "previous_employer_length_of_service_years":"1",
+          "previous_employer_name":"Google",
+          "previous_employer_occupation":"CTO",
+          "previous_employer_business_type":"Tech",
+          "purchase_property_type":"hdb",
+          "purchase_purpose":"owner_occupied",
+          "race":"chinese",
+          "residential_status":"singaporean",
+          "source_of_funds_for_monthly_repayment":[
+            "salary",
+            "personal_savings"
+          ],
+          "source_of_wealth":[
+            "business_ownership",
+            "income_from_employment"
+          ],
+          "variable_monthly_income":"123123",
+          "documents":{
+            "nric_documents":[
+              {
+                "file_id":"uppy-samplepdf-application/pdf-3028-1555319399720",
+                "id":"1f64e2ffcd86266ba1594b884878c7ba.pdf",
+                "metadata":{
+                  "filename":"sample.pdf",
+                  "mime_type":"application/pdf",
+                  "size":3028
+                },
+                "storage":"cache",
+                "url":"https://document-service-cache.s3.ap-southeast-1.amazonaws.com"
+              },
+              {
+                "file_id":"uppy-samplepdf-application/pdf-3028-1555319399720",
+                "id":"1f64e2ffcd86266ba1594b884878c7ba.pdf",
+                "metadata":{
+                  "filename":"nric.pdf",
+                  "mime_type":"application/pdf",
+                  "size":3028
+                },
+                "storage":"cache",
+                "url":"https://document-service-cache.s3.ap-southeast-1.amazonaws.com"
+              }
+            ],
+            "payslip_documents":[
+              {
+                "file_id":"uppy-samplepdf-application/pdf-3028-1555319399720",
+                "id":"1f64e2ffcd86266ba1594b884878c7ba.pdf",
+                "metadata":{
+                  "filename":"payslip.pdf",
+                  "mime_type":"application/pdf",
+                  "size":3028
+                },
+                "storage":"cache",
+                "url":"https://document-service-cache.s3.ap-southeast-1.amazonaws.com"
+              }
+            ],
+            "cpf_contribution_documents":[
+            ],
+            "cpf_withdrawal_documents":[
+            ],
+            "iras_assessment_documents":[
+            ],
+            "credit_bureau_documents":[
+            ],
+            "has_hdb_loan":true,
+            "hdb_ownership_documents":[
+            ],
+            "private_property_ownership_documents":[
+            ]
+          }
+        },
+        "secondary_applicant":{
+          "first_name":"Peter",
+          "last_name":"Parker",
+          "gender":"male",
+          "nric_number":"S8464417X",
+          "nric_expiry":"11/11/2020",
+          "fin_expiry":"11/11/2020",
+          "fin_number":"G8597280X",
+          "passport_expiry":"11/11/2020",
+          "passport_number":"ecec232323",
+          "home_address_block_number":"123123",
+          "home_address_postal_code":"160134",
+          "home_address_residence_ownership":"owned",
+          "home_address_residence_type":"hdb",
+          "home_address_street_name":"Blk 134 jalan bukit merah 10-1420",
+          "home_address_unit_number":"123123",
+          "date_of_birth":"12/01/1995",
+          "education_level":"university_postgrad",
+          "email":"peter.parker@gmail.com",
+          "employment_status":"employee",
+          "first_employment":"no",
+          "fixed_monthly_income":"123123",
+          "marital_status":"single",
+          "mobile_number":"92209085",
+          "nationality":"test1",
+          "other_available_savings":"123123",
+          "current_employer_block_number":"134",
+          "current_employer_length_of_service_months":"1",
+          "current_employer_length_of_service_years":"1",
+          "current_employer_name":"Stark Industries",
+          "current_employer_occupation":"CTO",
+          "current_employer_postal_code":"149555",
+          "current_employer_street_name":"Commonwealth lane",
+          "current_employer_business_type":"Fin Tech",
+          "current_employer_unit_number":"04-02",
+          "previous_employer_length_of_service_months":"1",
+          "previous_employer_length_of_service_years":"1",
+          "previous_employer_name":"Google",
+          "previous_employer_occupation":"CTO",
+          "previous_employer_business_type":"Tech",
+          "purchase_property_type":"hdb",
+          "purchase_purpose":"owner_occupied",
+          "race":"chinese",
+          "residential_status":"singaporean",
+          "source_of_funds_for_monthly_repayment":[
+            "salary",
+            "personal_savings"
+          ],
+          "source_of_wealth":[
+            "business_ownership",
+            "income_from_employment"
+          ],
+          "variable_monthly_income":"123123",
+          "documents":{
+            "nric_documents":[
+              {
+                "file_id":"uppy-samplepdf-application/pdf-3028-1555319399720",
+                "id":"1f64e2ffcd86266ba1594b884878c7ba.pdf",
+                "metadata":{
+                  "filename":"sample.pdf",
+                  "mime_type":"application/pdf",
+                  "size":3028
+                },
+                "storage":"cache",
+                "url":"https://document-service-cache.s3.ap-southeast-1.amazonaws.com"
+              },
+              {
+                "file_id":"uppy-samplepdf-application/pdf-3028-1555319399720",
+                "id":"1f64e2ffcd86266ba1594b884878c7ba.pdf",
+                "metadata":{
+                  "filename":"nric.pdf",
+                  "mime_type":"application/pdf",
+                  "size":3028
+                },
+                "storage":"cache",
+                "url":"https://document-service-cache.s3.ap-southeast-1.amazonaws.com"
+              }
+            ],
+            "payslip_documents":[
+              {
+                "file_id":"uppy-samplepdf-application/pdf-3028-1555319399720",
+                "id":"1f64e2ffcd86266ba1594b884878c7ba.pdf",
+                "metadata":{
+                  "filename":"payslip.pdf",
+                  "mime_type":"application/pdf",
+                  "size":3028
+                },
+                "storage":"cache",
+                "url":"https://document-service-cache.s3.ap-southeast-1.amazonaws.com"
+              }
+            ],
+            "cpf_contribution_documents":[
+            ],
+            "cpf_withdrawal_documents":[
+            ],
+            "iras_assessment_documents":[
+            ],
+            "credit_bureau_documents":[
+            ],
+            "has_hdb_loan":true,
+            "hdb_ownership_documents":[
+            ],
+            "private_property_ownership_documents":[
+            ]
+          }
+        }
+      }
+    }
+  }
+}
