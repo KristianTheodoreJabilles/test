@@ -1,5 +1,25 @@
 {
-  "userApplication": [],
+  "userApplication": [
+      {
+      "id": "dipa-001",
+      "status": "Approved",
+      "title": "Single Application",
+      "timeLineStatus": "Started on Apr 2nd, 2019.",
+      "percentage": "75",
+      "link": "#",
+      "completed": false
+    },
+    {
+      "id": "dipa-002",
+      "status": "Pending",
+      "title": "Joint Application With Zhi Hao",
+      "timeLineStatus": "Valid until Apr 2nd, 2019.",
+      "maxPropertyPrice": "500000",
+      "maxLoanAmount": "230000",
+      "provider": "dbs",
+      "completed": true
+    }
+  ],
   "applicationSummary": {
     "data":{
       "attributes":{
