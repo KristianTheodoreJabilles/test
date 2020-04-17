@@ -1,27 +1,29 @@
-[
-  {
-    "appName": "listing-application",
-    "packageVersion": "0.24.0",
-    "date": "Wed, 19 Feb 2020 06:22:50 GMT",
-    "appVersion": "1.1.0",
-    "appDependencies": {
-      "@moneysmart/cargo-vue": "^0.24.0",
-      "@moneysmart/cargo": "^0.12.13"
+{
+  "data": [
+    {
+      "appName": "listing-application",
+      "packageVersion": "0.24.0",
+      "date": "Wed, 19 Feb 2020 06:22:50 GMT",
+      "appVersion": "1.1.0",
+      "appDependencies": {
+        "@moneysmart/cargo-vue": "^0.24.0",
+        "@moneysmart/cargo": "^0.12.13"
+      },
+      "id": "9cd58575-f278-44aa-b355-48624f473c2e",
+      "packageName": "@moneysmart/cargo-vue"
     },
-    "id": "9cd58575-f278-44aa-b355-48624f473c2e",
-    "packageName": "@moneysmart/cargo-vue"
-  },
-  {
-    "appName": "ms-inline-widget-admin",
-    "packageVersion": "0.22.12",
-    "date": "Tue, 18 Feb 2020 05:31:00 GMT",
-    "appVersion": "0.1.1",
-    "appDependencies": {
-      "@moneysmart/cargo-vue": "^0.22.12",
-      "@moneysmart/cargo": "^0.12.4"
-    },
-    "appCountryCode": "sg",
-    "id": "c02404c0-4f2c-43e7-85f1-47ba881685ed",
-    "packageName": "@moneysmart/cargo-vue"
-  }
- ]
+    {
+      "appName": "ms-inline-widget-admin",
+      "packageVersion": "0.22.12",
+      "date": "Tue, 18 Feb 2020 05:31:00 GMT",
+      "appVersion": "0.1.1",
+      "appDependencies": {
+        "@moneysmart/cargo-vue": "^0.22.12",
+        "@moneysmart/cargo": "^0.12.4"
+      },
+      "appCountryCode": "sg",
+      "id": "c02404c0-4f2c-43e7-85f1-47ba881685ed",
+      "packageName": "@moneysmart/cargo-vue"
+    }
+  ]
+}
