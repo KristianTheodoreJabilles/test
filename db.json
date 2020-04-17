@@ -24,6 +24,58 @@
       "appCountryCode": "sg",
       "id": "c02404c0-4f2c-43e7-85f1-47ba881685ed",
       "packageName": "@moneysmart/cargo-vue"
+    },
+    {
+      "appName": "lps",
+      "packageVersion": "1.0.12",
+      "date": "Tue, 18 Feb 2020 05:31:00 GMT",
+      "appVersion": "0.1.1",
+      "appDependencies": {
+        "@moneysmart/cargo-vue": "^0.22.12",
+        "@moneysmart/cargo": "^0.12.4"
+      },
+      "appCountryCode": "sg",
+      "id": "c02404c0-4f2c-43e7-85f1-47ba881685ed",
+      "packageName": "@moneysmart/cargo-vue"
+    },
+    {
+      "appName": "helix",
+      "packageVersion": "2.1.12",
+      "date": "Tue, 18 Feb 2020 05:31:00 GMT",
+      "appVersion": "0.1.1",
+      "appDependencies": {
+        "@moneysmart/cargo-vue": "^0.22.12",
+        "@moneysmart/cargo": "^0.12.4"
+      },
+      "appCountryCode": "sg",
+      "id": "c02404c0-4f2c-43e7-85f1-47ba881685ed",
+      "packageName": "@moneysmart/cargo-vue"
+    },
+    {
+      "appName": "mortgage-landing-pages",
+      "packageVersion": "0.1.12",
+      "date": "Tue, 18 Feb 2020 05:31:00 GMT",
+      "appVersion": "0.1.1",
+      "appDependencies": {
+        "@moneysmart/cargo-vue": "^0.22.12",
+        "@moneysmart/cargo": "^0.12.4"
+      },
+      "appCountryCode": "sg",
+      "id": "c02404c0-4f2c-43e7-85f1-47ba881685ed",
+      "packageName": "@moneysmart/cargo-vue"
+    },
+    {
+      "appName": "mortgage-calculators-fe",
+      "packageVersion": "1.2.12",
+      "date": "Tue, 18 Feb 2020 05:31:00 GMT",
+      "appVersion": "0.1.1",
+      "appDependencies": {
+        "@moneysmart/cargo-vue": "^0.22.12",
+        "@moneysmart/cargo": "^0.12.4"
+      },
+      "appCountryCode": "sg",
+      "id": "c02404c0-4f2c-43e7-85f1-47ba881685ed",
+      "packageName": "@moneysmart/cargo-vue"
     }
   ]
 }
